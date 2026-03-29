@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sentinel Updates</title>
+    <item>
+      <title>Version 1.94</title>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.94</sparkle:shortVersionString>
+      <sparkle:criticalUpdate />
+      <pubDate>Sun, 29 Mar 2026 21:00:36 +0200</pubDate>
+      <enclosure
+        url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
+        length="10520214"
+        type="application/octet-stream"
+        sparkle:edSignature="Be2X5wW1bI4QYzzs+uu3cq1FG2LCQXupo8U7czlfzUnQ14V9BWlIi9AhC7qdm3kO2e/NFyEGInn/8GiJ8U3oCw==" length="10520214" />
+    </item>
+  </channel>
+</rss>
