@@ -12,7 +12,7 @@
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         length="10520203"
         type="application/octet-stream"
-        sparkle:edSignature="JcrfNCeCp3L8GJ9bIVZiatDVERE91Yo0OggveKhXboEvZe/TSl2PCESd4BTSUeyUdFzOcMph6bhTTiWmI+T5CA==" length="10520203" />
+        sparkle:edSignature="JcrfNCeCp3L8GJ9bIVZiatDVERE91Yo0OggveKhXboEvZe/TSl2PCESd4BTSUeyUdFzOcMph6bhTTiWmI+T5CA==" />
     </item>
   </channel>
 </rss>
