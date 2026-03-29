@@ -4,19 +4,19 @@
     <title>Sentinel Updates</title>
     <item>
       <title>Version 1.95</title>
-      <sparkle:version>22</sparkle:version>
+      <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>1.95</sparkle:shortVersionString>
       <sparkle:criticalUpdate />
       <description><![CDATA[
         <h2>Version 1.95</h2>
-        <ul><li>Now the app will export as Sentinel.app instead of SentinelPro.app</li><li>Point license API to Discord bot and add ATS exception for HTTP</li><li>Add premium license activation flow with success animation and feature gating</li><li>huge refactor + projects splitting + working on licensing system</li><li>Refactor codebase for consistency, modernize APIs, and clean up imports</li><li>Fixed a bunch of stuff</li><li>Fix bugs, improve performance, and clean up codebase</li><li>Add structured logging, replace ps with proc_pidinfo, and improve UI polish</li><li>Fixed a bunch of stuff in the settings window</li><li>Fixed keyboard funcs</li></ul>
+        <ul></ul>
       ]]></description>
-      <pubDate>Sun, 29 Mar 2026 21:33:46 +0200</pubDate>
+      <pubDate>Sun, 29 Mar 2026 21:39:18 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10583926"
-        sparkle:edSignature="nGSTrxOvE9PzMPoGBiGeKS2Q92KJT7JYwJvv4DrfrXBogjV+yaqMJ+X83TqdeymQ+DIPL5rk2sIDt+a5MOxdAg==" />
+        length="10583946"
+        sparkle:edSignature="v9m6EvS6BPj3IwYvklDwmZMEcKBKyMn3mK8v0NtnyOy/4yV6lLtmKlBdN7UxHMwU1COMO/FQEG6j4bY3LIliCg==" />
     </item>
   </channel>
 </rss>
