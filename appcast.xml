@@ -4,15 +4,15 @@
     <title>Sentinel Updates</title>
     <item>
       <title>Version 1.98</title>
-      <sparkle:version>34</sparkle:version>
+      <sparkle:version>35</sparkle:version>
       <sparkle:shortVersionString>1.98</sparkle:shortVersionString>
       <sparkle:criticalUpdate />
-      <pubDate>Thu, 16 Apr 2026 18:44:24 +0200</pubDate>
+      <pubDate>Thu, 16 Apr 2026 18:49:54 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="9769692"
-        sparkle:edSignature="fN61GivdSlIkLj6Qgb+s6BasWuD6c6hVjZP5Ixhl3uGGLWCjh66b9JEaJaaB1139sUwPaMszF0i+p9KA/VlhBg==" />
+        length="9769991"
+        sparkle:edSignature="yBjKeIettcfnQlKKOkhsWuyllSESzGXJIkuA/W56e1k5c9nlTYreUgTd/1v+Ixj5Q1NnmCbC0KXodCop2PCqAQ==" />
     </item>
   </channel>
 </rss>
