@@ -3,16 +3,35 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 2.1</title>
-      <sparkle:version>60</sparkle:version>
-      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <title>Version 2.2</title>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <description><![CDATA[
+<h2>Sentinel v2.2 (build 65)</h2>
+<ul>
+  <li>Update project version, UI, and localization</li>
+  <li>Refactor Settings UI and add release notes script</li>
+  <li>Add PrivateSymbol bridge and SettingsSearchBar</li>
+  <li>Add searchable Settings UI and appearance cards</li>
+  <li>Add close button inset and opaque surface style</li>
+  <li>Add appearance and surface styling system</li>
+  <li>Add AppDelegate color sampling and notch toast</li>
+  <li>Add Scroll Reverser with per-axis controls</li>
+  <li>Refactor keyboard brightness to observable monitor</li>
+  <li>Refactor menu bar metrics handling and improve UI components</li>
+  <li>Refactor LicenseService and AppDelegate for default settings management</li>
+  <li>Update DockMediaController to improve dock visibility handling</li>
+  <li>Pushed v2.0</li>
+  <li>Enhance DynamicNotchView with responsive sizing for closed notch state</li>
+</ul>
+]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Sat, 25 Apr 2026 12:45:57 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2026 09:52:33 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10091613"
-        sparkle:edSignature="S/tGguEMu2JY8GboonaxBmzyCh0HQw3ko5k3Dvak/Rzq4qgeQ5wOW6+Uq16imWD0TDYb2ESEkA0ewRQHHUKiCA==" />
+        length="10212609"
+        sparkle:edSignature="OmL64kDs0Cn/XS1q+/jsTX6HrzmSJ3Vyxy/5TMaRn1NVTZVTjy5k4UMEpC9Ir4UROO0HFataEl2idrJTrZctBQ==" />
     </item>
   </channel>
 </rss>
