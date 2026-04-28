@@ -4,11 +4,12 @@
     <title>Sentinel Updates</title>
     <item>
       <title>Version 2.3</title>
-      <sparkle:version>67</sparkle:version>
+      <sparkle:version>68</sparkle:version>
       <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v2.3 (build 67)</h2>
+<h2>Sentinel v2.3 (build 68)</h2>
 <ul>
+  <li>Add lifecycle validation to LicenseService</li>
   <li>Migrate to SentinelKit package and expose API</li>
   <li>Refactor to new media controllers and shared state</li>
   <li>Update project version, UI, and localization</li>
@@ -28,12 +29,12 @@
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Mon, 27 Apr 2026 19:42:52 +0200</pubDate>
+      <pubDate>Tue, 28 Apr 2026 12:46:40 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10250059"
-        sparkle:edSignature="bQ+R+4DprYGI3jQtP1sk26aM9/as3NeC+nO1YmA2xnNeF2G8ihRrhvJlZuGtEiv5aCNyUWIaT3AEM8T/ZZ/7Cw==" />
+        length="10254550"
+        sparkle:edSignature="SwFfB79vOJTalkZtb66JEt4naAiuuqMiVszHh16uUndESA73wsg3qkDFpZ9OFpkwsD0COC3j1UAQ51WJhblQDQ==" />
     </item>
   </channel>
 </rss>
