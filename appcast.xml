@@ -4,10 +4,10 @@
     <title>Sentinel Updates</title>
     <item>
       <title>Version 2.4</title>
-      <sparkle:version>73</sparkle:version>
+      <sparkle:version>74</sparkle:version>
       <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v2.4 (build 73)</h2>
+<h2>Sentinel v2.4 (build 74)</h2>
 <h3>Features</h3>
 <ul>
   <li>Add color copy formats and trial state</li>
@@ -29,12 +29,12 @@
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Sun, 03 May 2026 19:06:54 +0200</pubDate>
+      <pubDate>Thu, 14 May 2026 16:00:52 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10387050"
-        sparkle:edSignature="Gdh0SdHev3I0hmxJMYqAxbsyJC5AyF5Gczcb5p6Hm4ouKkUyhyNrGK4QRvKluHSytYEasrElRh2Z3hNhZw51AA==" />
+        length="10404986"
+        sparkle:edSignature="/Rx0VEGO8C/I/EGe6k2uS1/4HorCawGowQnQZfjuQVOJ2b45mrBgSkGdMSfrSxZr7unIQ3XZTNIovt7ZcDDFDA==" />
     </item>
   </channel>
 </rss>

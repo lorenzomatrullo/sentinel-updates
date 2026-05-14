@@ -1,5 +1,22 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.4 (build 74)
+
+### Features
+- Add color copy formats and trial state
+- Add release notes model, service, UI, tooling
+- Add lifecycle validation to LicenseService
+- Add searchable Settings UI and appearance cards
+- Add close button inset and opaque surface style
+- Add appearance and surface styling system
+- Add AppDelegate color sampling and notch toast
+- Add Scroll Reverser with per-axis controls
+### Improvements
+- Improve accessibility and UI sizing across app
+- Refactor menu bar metrics handling and improve UI components
+- Update DockMediaController to improve dock visibility handling
+- Enhance DynamicNotchView with responsive sizing for closed notch state
+
 ## Sentinel v2.4 (build 73)
 
 ### Features
