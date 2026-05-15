@@ -1,5 +1,14 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.4 (build 75)
+
+### Features
+- Add track change animation feature to Dynamic Notch
+- Add color copy formats and trial state
+- Add release notes model, service, UI, tooling
+### Improvements
+- Improve accessibility and UI sizing across app
+
 ## Sentinel v2.4 (build 74)
 
 ### Features
