@@ -1,5 +1,12 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.5 (build 76)
+
+### Features
+- Add hex prefix option for color copy formats
+### Improvements
+- Fixing cloxe button position in color picker window
+
 ## Sentinel v2.4 (build 75)
 
 ### Features
