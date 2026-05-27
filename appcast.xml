@@ -3,28 +3,23 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 2.5</title>
-      <sparkle:version>76</sparkle:version>
-      <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+      <title>Version 2.6</title>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v2.5 (build 76)</h2>
-<h3>Features</h3>
+<h2>Sentinel v2.6 (build 77)</h2>
+<h3>Improvements</h3>
 <ul>
-  <li>Add hex prefix option for color copy formats</li>
-</li>
-</ul><h3>Improvements</h3>
-<ul>
-  <li>Fixing cloxe button position in color picker window</li>
-</li>
+  <li>Maintenance and stability improvements.</li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Fri, 22 May 2026 12:24:10 +0200</pubDate>
+      <pubDate>Wed, 27 May 2026 17:10:13 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10406893"
-        sparkle:edSignature="PUVZv8sZc0MlUFAxI46G7mxR1pkfs3WAYLIfxcdo3CIlJkELPaxwzPsIPN/T9vgvBEArcNJWpvgOmedYRPgWBg==" />
+        length="10411030"
+        sparkle:edSignature="SWmA1M5k7SOTZEvRCwL15IH/1N9Py46PBubejlfPZ/UkJQG+foT8R7ZzwZ9Wp6rdUKO2fBfhmlWmV/rsIRhqAQ==" />
     </item>
   </channel>
 </rss>

@@ -1,5 +1,10 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.6 (build 77)
+
+### Improvements
+- Maintenance and stability improvements.
+
 ## Sentinel v2.5 (build 76)
 
 ### Features
