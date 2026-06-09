@@ -1,5 +1,13 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.7 (build 78)
+
+### Features
+- Add PC temperature metric and media source arbitration
+### Improvements
+- Updated version number
+- Changes: *Added space bar to pause/resume whne dynamic notch is expanded *Reduced general delay to expand dynamic notch
+
 ## Sentinel v2.6 (build 77)
 
 ### Improvements

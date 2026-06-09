@@ -3,23 +3,29 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 2.6</title>
-      <sparkle:version>77</sparkle:version>
-      <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+      <title>Version 2.7</title>
+      <sparkle:version>78</sparkle:version>
+      <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v2.6 (build 77)</h2>
-<h3>Improvements</h3>
+<h2>Sentinel v2.7 (build 78)</h2>
+<h3>Features</h3>
 <ul>
-  <li>Maintenance and stability improvements.</li>
+  <li>Add PC temperature metric and media source arbitration</li>
+</li>
+</ul><h3>Improvements</h3>
+<ul>
+  <li>Updated version number</li>
+  <li>Changes: *Added space bar to pause/resume whne dynamic notch is expanded *Reduced general delay to expand dynamic notch</li>
+</li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Wed, 27 May 2026 17:10:13 +0200</pubDate>
+      <pubDate>Tue, 09 Jun 2026 21:40:29 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10411030"
-        sparkle:edSignature="SWmA1M5k7SOTZEvRCwL15IH/1N9Py46PBubejlfPZ/UkJQG+foT8R7ZzwZ9Wp6rdUKO2fBfhmlWmV/rsIRhqAQ==" />
+        length="10389834"
+        sparkle:edSignature="zIaY8mOSBnpZ+rHJal+rvbYcrw7eEoXpgYT5+LpF4IkKrq5EAdCKz289SC1CR3oQHTRL4fLe4cmsp/CmYKodAA==" />
     </item>
   </channel>
 </rss>
