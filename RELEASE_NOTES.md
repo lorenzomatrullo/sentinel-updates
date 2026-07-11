@@ -1,5 +1,11 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.8 (build 79)
+
+### Features
+- Add Disk Cleaner and fix keyboard-lock input leaks
+- Add Discord changelog workflow
+
 ## Sentinel v2.7 (build 78)
 
 ### Features
