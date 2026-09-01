@@ -1,5 +1,10 @@
 # Sentinel — Release Notes
 
+## Sentinel v2.9 (build 80)
+
+### Features
+- Add Apple Books support and lock all input during keyboard cleaning
+
 ## Sentinel v2.8 (build 79)
 
 ### Features
