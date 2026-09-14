@@ -1,5 +1,12 @@
 # Sentinel — Release Notes
 
+## Sentinel v3.0 (build 81)
+
+### Features
+- Add Apple Books support and lock all input during keyboard cleaning
+### Improvements
+- Restructure the project and expand the Dynamic Notch during playback
+
 ## Sentinel v2.9 (build 80)
 
 ### Features
