@@ -1,5 +1,10 @@
 # Sentinel — Release Notes
 
+## Sentinel v3.1.0 (build 82)
+
+### Improvements
+- Refactor the codebase into one type per file and remove the Disk Cleaner
+
 ## Sentinel v3.0 (build 81)
 
 ### Features

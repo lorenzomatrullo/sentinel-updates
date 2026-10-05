@@ -3,28 +3,24 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 3.0</title>
-      <sparkle:version>81</sparkle:version>
-      <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+      <title>Version 3.1.0</title>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v3.0 (build 81)</h2>
-<h3>Features</h3>
+<h2>Sentinel v3.1.0 (build 82)</h2>
+<h3>Improvements</h3>
 <ul>
-  <li>Add Apple Books support and lock all input during keyboard cleaning</li>
-</li>
-</ul><h3>Improvements</h3>
-<ul>
-  <li>Restructure the project and expand the Dynamic Notch during playback</li>
+  <li>Refactor the codebase into one type per file and remove the Disk Cleaner</li>
 </li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Mon, 14 Sep 2026 11:19:51 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 16:09:15 +0200</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10475277"
-        sparkle:edSignature="YGwLDkKR/Ucx4w+eAtV44a3bvp8qqV6r62kqd6JMEO9HJJdj7yqPMLC2e0Jgdwm+/MqfEoaWiIrnJ2eriP10BQ==" />
+        length="10394891"
+        sparkle:edSignature="MdyDrCp2/rin3bMH55r2nhEgSGkEIaCXEnSJNFX08Q1J/GfD5SvBrmlM+xHVXvreqn5zDrIcySg1bQaAZB0cBQ==" />
     </item>
   </channel>
 </rss>
