@@ -1,4 +1,9 @@
-# Sentinel — Release Notes
+# Sentinel – Release Notes
+
+## Sentinel v3.2.0 (build 83)
+
+### Fixes
+- Fix bugs across Sentinel and move settings to SwiftData
 
 ## Sentinel v3.1.0 (build 82)
 

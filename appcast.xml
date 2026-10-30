@@ -3,24 +3,24 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 3.1.0</title>
-      <sparkle:version>82</sparkle:version>
-      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <title>Version 3.2.0</title>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
       <description><![CDATA[
-<h2>Sentinel v3.1.0 (build 82)</h2>
-<h3>Improvements</h3>
+<h2>Sentinel v3.2.0 (build 83)</h2>
+<h3>Fixes</h3>
 <ul>
-  <li>Refactor the codebase into one type per file and remove the Disk Cleaner</li>
+  <li>Fix bugs across Sentinel and move settings to SwiftData</li>
 </li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Mon, 05 Oct 2026 16:09:15 +0200</pubDate>
+      <pubDate>Fri, 30 Oct 2026 17:44:19 +0100</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="10394891"
-        sparkle:edSignature="MdyDrCp2/rin3bMH55r2nhEgSGkEIaCXEnSJNFX08Q1J/GfD5SvBrmlM+xHVXvreqn5zDrIcySg1bQaAZB0cBQ==" />
+        length="10598882"
+        sparkle:edSignature="LHJgIVkSLQh//5ICFH/1eL22EbowZajL7T7wEZfX68HAsDW+fc8+5fOXDTY1vz+75LB17UQhDykLdj7BlO7HDw==" />
     </item>
   </channel>
 </rss>
