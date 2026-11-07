@@ -1,5 +1,10 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.2.1 (build 84)
+
+### Improvements
+- Turn off every Pro feature when Pro ends
+
 ## Sentinel v3.2.0 (build 83)
 
 ### Fixes
