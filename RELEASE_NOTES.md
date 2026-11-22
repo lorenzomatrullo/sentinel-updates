@@ -1,5 +1,45 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.4.0 (build 86)
+
+### Features
+- Add lock screen music, with a Now Playing card, artwork, progress, and playback controls
+- Add a full cover that moves to the middle of the lock screen over a blurred backdrop with a compact clock
+- Add synced lyrics from LRCLIB, with word-by-word highlighting and interludes
+- Add Stay Awake, a menu bar switch that keeps the Mac running with the lid closed
+- Add the Solid, Frosted, and Liquid Glass notch styles, chosen from preview cards in Appearance
+- Add Artwork Glow, a light in the album art's colors along the bottom of the open notch
+- Add live audio bars to the notch that move with the music that's playing
+- Add favorite and AirPlay buttons for Apple Music in the notch
+- Add a tooltip that points to the menu bar icon after onboarding
+
+### Improvements
+- Show every process in the Task Manager, including system processes, with helpers grouped under their app
+- Morph between Task Manager screens instead of swapping them
+- Redesign the floating panels with crisp edges, rounded corners, and the system close button
+- Improve panel contrast in light and dark
+- Color the audio bars from the album art's main color
+- Grow the notch out of the camera housing and tuck it away on the lock screen and screen saver
+- Follow swipes between spaces sooner
+- Flip the album cover when the song changes
+- Restart the song when going back more than 3 seconds in
+- Scroll long titles and show the browser's icon for web media
+- Morph the album cover into the camera mirror, now always a banner
+- Shorten the keyboard cleaning unlock hold to 3 seconds
+- Cut Sentinel's idle CPU use
+- Remove the Dock media controller and the shape options
+
+### Fixes
+- Fix keys getting through the keyboard lock when Sentinel is busy
+- Fix floating panels drifting down the screen when resized
+- Fix favorites falling out of sync with Music
+- Fix players that were already open at launch not showing in the notch
+- Fix the screen darkening on song changes in the lyrics view
+- Fix lyrics not loading after the network drops
+- Fix the top of the notch losing its black fill while it collapses
+- Fix the notch snapping shut when it closes
+- Correct the Task Manager's CPU and memory readings to match Activity Monitor
+
 ## Sentinel v3.2.1 (build 84)
 
 ### Improvements
