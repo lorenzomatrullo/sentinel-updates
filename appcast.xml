@@ -3,33 +3,30 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 3.4.2</title>
-      <sparkle:version>88</sparkle:version>
-      <sparkle:shortVersionString>3.4.2</sparkle:shortVersionString>
+      <title>Version 3.4.3</title>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>3.4.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>Sentinel v3.4.2 (build 88)</h2>
-<h3>Sentinel v3.4.2 (build 88)</h3>
+<h2>Sentinel v3.4.3 (build 89)</h2>
 <h3>Features</h3>
 <ul>
-  <li>Add System Audio to Permissions, to see and allow the access the audio bars need</li>
+  <li>Add a close button to the lock screen cover</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Match the Settings window to System Settings, with a larger title and a sidebar that always shows</li>
-  <li>Make the Settings search field Liquid Glass, with the system focus ring</li>
-  <li>Group Show Now Playing and Show Lyrics in one Lock Screen section</li>
-  <li>List the notch styles as Liquid Glass, Frosted, then Solid</li>
-  <li>Start new installs with the Liquid Glass notch style and Show Uptime on, and Artwork Glow, Show Shortcut Hints, and Show Brightness Percentage off</li>
+  <li>Soften the Liquid Glass notch shadow</li>
+  <li>Morph the notch cover and spectrum between states</li>
+  <li>Rework the Release Notes window to follow the HIG</li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Tue, 24 Nov 2026 10:53:32 +0100</pubDate>
+      <pubDate>Tue, 24 Nov 2026 13:59:13 +0100</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="11073345"
-        sparkle:edSignature="zn2jX0XZTu1EC7MKn8QIDFPV3oYMbJRrPNYPnF1jS9uQB/BvyLJtwUC3LHPfjeLVxZF8oOML5eirbOxn+gq9CA==" />
+        length="11071276"
+        sparkle:edSignature="rWxOWCx7T3ugRgaBrW3cH+AW95gK3IZxIRCsN8GdyH+PLn9WHsGXD4ydbGbz30DI/coluvUQPOJq9ijkAW8TCg==" />
     </item>
   </channel>
 </rss>

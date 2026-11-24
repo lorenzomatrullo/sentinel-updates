@@ -1,5 +1,15 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.4.3 (build 89)
+
+### Features
+- Add a close button to the lock screen cover
+
+### Improvements
+- Soften the Liquid Glass notch shadow
+- Morph the notch cover and spectrum between states
+- Rework the Release Notes window to follow the HIG
+
 ## Sentinel v3.4.2 (build 88)
 
 ## Sentinel v3.4.2 (build 88)
