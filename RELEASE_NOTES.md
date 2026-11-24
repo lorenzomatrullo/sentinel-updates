@@ -1,5 +1,19 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.4.2 (build 88)
+
+## Sentinel v3.4.2 (build 88)
+
+### Features
+- Add System Audio to Permissions, to see and allow the access the audio bars need
+
+### Improvements
+- Match the Settings window to System Settings, with a larger title and a sidebar that always shows
+- Make the Settings search field Liquid Glass, with the system focus ring
+- Group Show Now Playing and Show Lyrics in one Lock Screen section
+- List the notch styles as Liquid Glass, Frosted, then Solid
+- Start new installs with the Liquid Glass notch style and Show Uptime on, and Artwork Glow, Show Shortcut Hints, and Show Brightness Percentage off
+
 ## Sentinel v3.4.0 (build 86)
 
 ### Features

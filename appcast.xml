@@ -3,61 +3,33 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 3.4.0</title>
-      <sparkle:version>86</sparkle:version>
-      <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+      <title>Version 3.4.2</title>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>3.4.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>Sentinel v3.4.0 (build 86)</h2>
+<h2>Sentinel v3.4.2 (build 88)</h2>
+<h3>Sentinel v3.4.2 (build 88)</h3>
 <h3>Features</h3>
 <ul>
-  <li>Add lock screen music, with a Now Playing card, artwork, progress, and playback controls</li>
-  <li>Add a full cover that moves to the middle of the lock screen over a blurred backdrop with a compact clock</li>
-  <li>Add synced lyrics from LRCLIB, with word-by-word highlighting and interludes</li>
-  <li>Add Stay Awake, a menu bar switch that keeps the Mac running with the lid closed</li>
-  <li>Add the Solid, Frosted, and Liquid Glass notch styles, chosen from preview cards in Appearance</li>
-  <li>Add Artwork Glow, a light in the album art's colors along the bottom of the open notch</li>
-  <li>Add live audio bars to the notch that move with the music that's playing</li>
-  <li>Add favorite and AirPlay buttons for Apple Music in the notch</li>
-  <li>Add a tooltip that points to the menu bar icon after onboarding</li>
+  <li>Add System Audio to Permissions, to see and allow the access the audio bars need</li>
 </ul>
 <h3>Improvements</h3>
 <ul>
-  <li>Show every process in the Task Manager, including system processes, with helpers grouped under their app</li>
-  <li>Morph between Task Manager screens instead of swapping them</li>
-  <li>Redesign the floating panels with crisp edges, rounded corners, and the system close button</li>
-  <li>Improve panel contrast in light and dark</li>
-  <li>Color the audio bars from the album art's main color</li>
-  <li>Grow the notch out of the camera housing and tuck it away on the lock screen and screen saver</li>
-  <li>Follow swipes between spaces sooner</li>
-  <li>Flip the album cover when the song changes</li>
-  <li>Restart the song when going back more than 3 seconds in</li>
-  <li>Scroll long titles and show the browser's icon for web media</li>
-  <li>Morph the album cover into the camera mirror, now always a banner</li>
-  <li>Shorten the keyboard cleaning unlock hold to 3 seconds</li>
-  <li>Cut Sentinel's idle CPU use</li>
-  <li>Remove the Dock media controller and the shape options</li>
-</ul>
-<h3>Fixes</h3>
-<ul>
-  <li>Fix keys getting through the keyboard lock when Sentinel is busy</li>
-  <li>Fix floating panels drifting down the screen when resized</li>
-  <li>Fix favorites falling out of sync with Music</li>
-  <li>Fix players that were already open at launch not showing in the notch</li>
-  <li>Fix the screen darkening on song changes in the lyrics view</li>
-  <li>Fix lyrics not loading after the network drops</li>
-  <li>Fix the top of the notch losing its black fill while it collapses</li>
-  <li>Fix the notch snapping shut when it closes</li>
-  <li>Correct the Task Manager's CPU and memory readings to match Activity Monitor</li>
+  <li>Match the Settings window to System Settings, with a larger title and a sidebar that always shows</li>
+  <li>Make the Settings search field Liquid Glass, with the system focus ring</li>
+  <li>Group Show Now Playing and Show Lyrics in one Lock Screen section</li>
+  <li>List the notch styles as Liquid Glass, Frosted, then Solid</li>
+  <li>Start new installs with the Liquid Glass notch style and Show Uptime on, and Artwork Glow, Show Shortcut Hints, and Show Brightness Percentage off</li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Sun, 22 Nov 2026 21:53:28 +0100</pubDate>
+      <pubDate>Tue, 24 Nov 2026 10:53:32 +0100</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="11066044"
-        sparkle:edSignature="f64y1O+Rn2qJMNatNlf6vQ2gbnFXlzkKGni1hKOPrBovi0RYKTCQyxyId9J8cTE8PpMWvMcamg8E5PG+UzGECA==" />
+        length="11073345"
+        sparkle:edSignature="zn2jX0XZTu1EC7MKn8QIDFPV3oYMbJRrPNYPnF1jS9uQB/BvyLJtwUC3LHPfjeLVxZF8oOML5eirbOxn+gq9CA==" />
     </item>
   </channel>
 </rss>
