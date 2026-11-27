@@ -3,66 +3,24 @@
   <channel>
     <title>Sentinel Updates</title>
     <item>
-      <title>Version 3.5.0</title>
-      <sparkle:version>91</sparkle:version>
-      <sparkle:shortVersionString>3.5.0</sparkle:shortVersionString>
+      <title>Version 3.5.1</title>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>3.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-<h2>Sentinel v3.5.0 (build 91)</h2>
-<h3>What’s New in Sentinel v3.5.0</h3>
-<h3>Features</h3>
-<ul>
-  <li>Convert images by dropping them on the Dynamic Notch to PNG, JPEG, HEIC, AVIF, TIFF, or PDF, with progress, Cancel, and Show in Finder</li>
-  <li>Put converted images in a free spot in the same folder, and return the originals exactly where they were, even on the desktop</li>
-  <li>Show volume and brightness changes in the Dynamic Notch instead of the system pop-up, including in full screen apps and on the Lock Screen</li>
-  <li>Turn the volume or brightness into a slider you can drag when you point to it</li>
-  <li>Step the level in 16 steps, or finer with Shift and Option held, with a speaker and sun that react to each change</li>
-  <li>Show the Mac's sound outputs under the player, switch between them with a click, and drag to set the current one's volume</li>
-  <li>Show the battery level in the Dynamic Notch for a moment when you plug in, with Full Battery and Charging On Hold alerts</li>
-  <li>Choose the buttons beside the playback controls in Settings: Favorite or Repeat on the left, AirPlay or Shuffle on the right</li>
-  <li>Click a lyric on the Lock Screen to play from that line, and scroll through the lyrics</li>
-  <li>Add stats to the menu bar by dragging them into a live preview, reorder them by dragging, and drag them out to remove them</li>
-  <li>Choose how long Stay Awake lasts: 15 minutes, 30 minutes, 1 hour, 2 hours, or until Claude Code finishes working</li>
-  <li>Keep the display on while Stay Awake is on and the lid is open</li>
-  <li>Lock the Mac, pause music, and mute the built-in speakers when the lid closes with Stay Awake on, restoring them when it opens</li>
-  <li>Add an account page with your Mac account's picture, name, plan, and purchase email</li>
-  <li>Choose Sentinel's language in General settings</li>
-</ul>
+<h2>Sentinel v3.5.1 (build 92)</h2>
 <h3>Improvements</h3>
 <ul>
-  <li>Open the camera mirror in a larger notch that grows evenly from the center</li>
-  <li>Match the Lock Screen's Now Playing card to the Liquid Glass, Frosted, or Solid notch style</li>
-  <li>Shrink and dim a paused song's cover in the closed notch too</li>
-  <li>Grow the album cover slightly when you point to it, and bounce it when you click it</li>
-  <li>Open the menu bar menu in Sentinel's own panel, closing with Escape or a click elsewhere</li>
-  <li>Show control names after 1 second of pointing in the notch and menu bar previews</li>
-  <li>Move the notch style and Artwork Glow into a new Player section of Dynamic Notch settings</li>
-  <li>Ask for the purchase email when redeeming a key, and for licenses redeemed without one</li>
-  <li>Keep the license key and email on each Mac only</li>
-  <li>Add back and forward arrows to Settings, also on Command-[ and Command-]</li>
-  <li>Redesign About with update status, update settings, Privacy, Export Logs, and Reset All Settings</li>
-  <li>Redesign Permissions with an Allow or Open Settings button for each one</li>
-  <li>Count purgeable space as available disk space, as Storage settings does</li>
-  <li>Stop Stay Awake when the Mac gets too hot, and say why in the menu</li>
-  <li>Make the usage rings easier to read on light backgrounds</li>
-  <li>Add VoiceOver hints and Reduce Motion support, and Italian for every new string</li>
-</ul>
-<h3>Fixes</h3>
-<ul>
-  <li>Show Apple Music shuffle and repeat changes right away</li>
-  <li>Restart the progress bar when a song repeats</li>
-  <li>Turn sleep back on after a crash while Stay Awake is on</li>
-  <li>Say when Stay Awake can't connect to Claude Code or turn itself off</li>
-  <li>Show a message instead of zeros when the disk can't be read</li>
+  <li>Hotfix: Stop volume and brightness keys running to max</li>
 </ul>
 ]]></description>
       <sparkle:criticalUpdate />
-      <pubDate>Fri, 27 Nov 2026 12:47:14 +0100</pubDate>
+      <pubDate>Fri, 27 Nov 2026 13:44:16 +0100</pubDate>
       <enclosure
         url="https://github.com/lorenzomatrullo/sentinel-updates/releases/download/latest/Sentinel.zip"
         type="application/octet-stream"
-        length="11986806"
-        sparkle:edSignature="gh9Nik+Fni7/Zv5iwKt2cig+F3i8N1Zmph0nwKZXsHsJvi/kJsQg3DWlUYkY0ztxZR2qJREEkOKiUwM/A5A6DA==" />
+        length="12010329"
+        sparkle:edSignature="uxZM/xePVK7ut0uRr8QAUv5GB0MhXk5K1qZKY0is9FTqtnuvhgL8kaOk8x2zjD8Ip1c4Y4O+iEXaoV+yjapYCA==" />
     </item>
   </channel>
 </rss>

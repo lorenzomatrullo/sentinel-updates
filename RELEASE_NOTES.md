@@ -1,5 +1,10 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.5.1 (build 92)
+
+### Improvements
+- Hotfix: Stop volume and brightness keys running to max
+
 ## Sentinel v3.5.0 (build 91)
 
 ## What’s New in Sentinel v3.5.0
