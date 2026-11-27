@@ -1,5 +1,51 @@
 # Sentinel – Release Notes
 
+## Sentinel v3.5.0 (build 91)
+
+## What’s New in Sentinel v3.5.0
+
+### Features
+- Convert images by dropping them on the Dynamic Notch to PNG, JPEG, HEIC, AVIF, TIFF, or PDF, with progress, Cancel, and Show in Finder
+- Put converted images in a free spot in the same folder, and return the originals exactly where they were, even on the desktop
+- Show volume and brightness changes in the Dynamic Notch instead of the system pop-up, including in full screen apps and on the Lock Screen
+- Turn the volume or brightness into a slider you can drag when you point to it
+- Step the level in 16 steps, or finer with Shift and Option held, with a speaker and sun that react to each change
+- Show the Mac's sound outputs under the player, switch between them with a click, and drag to set the current one's volume
+- Show the battery level in the Dynamic Notch for a moment when you plug in, with Full Battery and Charging On Hold alerts
+- Choose the buttons beside the playback controls in Settings: Favorite or Repeat on the left, AirPlay or Shuffle on the right
+- Click a lyric on the Lock Screen to play from that line, and scroll through the lyrics
+- Add stats to the menu bar by dragging them into a live preview, reorder them by dragging, and drag them out to remove them
+- Choose how long Stay Awake lasts: 15 minutes, 30 minutes, 1 hour, 2 hours, or until Claude Code finishes working
+- Keep the display on while Stay Awake is on and the lid is open
+- Lock the Mac, pause music, and mute the built-in speakers when the lid closes with Stay Awake on, restoring them when it opens
+- Add an account page with your Mac account's picture, name, plan, and purchase email
+- Choose Sentinel's language in General settings
+
+### Improvements
+- Open the camera mirror in a larger notch that grows evenly from the center
+- Match the Lock Screen's Now Playing card to the Liquid Glass, Frosted, or Solid notch style
+- Shrink and dim a paused song's cover in the closed notch too
+- Grow the album cover slightly when you point to it, and bounce it when you click it
+- Open the menu bar menu in Sentinel's own panel, closing with Escape or a click elsewhere
+- Show control names after 1 second of pointing in the notch and menu bar previews
+- Move the notch style and Artwork Glow into a new Player section of Dynamic Notch settings
+- Ask for the purchase email when redeeming a key, and for licenses redeemed without one
+- Keep the license key and email on each Mac only
+- Add back and forward arrows to Settings, also on Command-[ and Command-]
+- Redesign About with update status, update settings, Privacy, Export Logs, and Reset All Settings
+- Redesign Permissions with an Allow or Open Settings button for each one
+- Count purgeable space as available disk space, as Storage settings does
+- Stop Stay Awake when the Mac gets too hot, and say why in the menu
+- Make the usage rings easier to read on light backgrounds
+- Add VoiceOver hints and Reduce Motion support, and Italian for every new string
+
+### Fixes
+- Show Apple Music shuffle and repeat changes right away
+- Restart the progress bar when a song repeats
+- Turn sleep back on after a crash while Stay Awake is on
+- Say when Stay Awake can't connect to Claude Code or turn itself off
+- Show a message instead of zeros when the disk can't be read
+
 ## Sentinel v3.4.3 (build 89)
 
 ### Features
